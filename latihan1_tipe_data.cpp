@@ -13,7 +13,7 @@
 // Akademik : 96
 // Index Nilai : 85.20
 #include <iostream>
-#include <stdlib.h>
+#include <cstdlib>
 using namespace std;
 
 int main(){
