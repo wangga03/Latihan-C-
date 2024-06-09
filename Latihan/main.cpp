@@ -29,7 +29,6 @@ int login(){
     fstream registrasi;
     registrasi.open("customer.bin",ios::in|ios::binary);
 
-    for(char*data)
 
     registrasi.read(reinterpret_cast<char*>(&data), sizeof(data));
 
